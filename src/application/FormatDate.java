@@ -37,10 +37,6 @@ public class FormatDate {
 		
 		String day3 = (weekDay(cal));
 		
-		//DateFormat day = DateFormat.getDateInstance(DateFormat.DAY_OF_WEEK_IN_MONTH_FIELD);
-		//System.out.println(day);
-		//System.out.println("XX: " + cal.get(Calendar.DAY_OF_WEEK));
-		
 		System.out.println();
 		System.out.println("Day of the Week: " + day3);
 		
